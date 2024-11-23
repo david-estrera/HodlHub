@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bitcoin",
+    "amount_owned": 0.5
+  },
+  {
+    "name": "Ethereum",
+    "amount_owned": 1.2
+  },
+  {
+    "name": "Solana",
+    "amount_owned": 10
+  },
+  {
+    "name": "Cardano",
+    "amount_owned": 50
+  },
+  {
+    "name": "Ripple",
+    "amount_owned": 200
+  }
+]
